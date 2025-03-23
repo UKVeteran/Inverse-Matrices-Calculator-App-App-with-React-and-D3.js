@@ -35,13 +35,13 @@ To get started with this project locally, follow the steps below:
 git clone https://github.com/yourusername/matrix-inverse-calculator.git
 ```
 
-2. Navigate to the Project Directory
+### 2. Navigate to the Project Directory
 ```
 
 cd matrix-inverse-calculator
 ```
 
-3. Install Dependencies
+### 3. Install Dependencies
 Make sure you have Node.js and npm installed. Then run:
 
 ```
@@ -49,11 +49,12 @@ Make sure you have Node.js and npm installed. Then run:
 npm install
 ```
 
-4. Run the Application
+### 4. Run the Application
 Start the development server:
 
 ```
 npm start```
+
 
 This will open the app in your default browser. The app will be live at http://localhost:3000.
 

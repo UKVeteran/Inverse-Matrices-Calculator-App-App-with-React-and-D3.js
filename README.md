@@ -45,7 +45,6 @@ cd matrix-inverse-calculator
 Make sure you have Node.js and npm installed. Then run:
 
 ```
-
 npm install
 ```
 
@@ -53,7 +52,8 @@ npm install
 Start the development server:
 
 ```
-npm start```
+npm start
+```
 
 
 This will open the app in your default browser. The app will be live at http://localhost:3000.

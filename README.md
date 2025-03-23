@@ -34,4 +34,34 @@ To get started with this project locally, follow the steps below:
 ```
 git clone https://github.com/yourusername/matrix-inverse-calculator.git
 ```
-``
+
+2. Navigate to the Project Directory
+```
+
+cd matrix-inverse-calculator
+```
+
+3. Install Dependencies
+Make sure you have Node.js and npm installed. Then run:
+
+```
+
+npm install
+```
+
+4. Run the Application
+Start the development server:
+
+```
+npm start```
+
+This will open the app in your default browser. The app will be live at http://localhost:3000.
+
+## 🧑‍💻 Usage
+Select Matrix Size: Choose between a 2x2, 3x3, or 4x4 matrix from the dropdown.
+
+Enter Values: Input the values for each element in the matrix. Each element is editable via an input field.
+
+Calculate Inverse: After entering the values, click the "Calculate Inverse" button to compute the matrix inverse.
+
+View Result: If the inverse exists, it will be displayed below the input area in JSON format. If the matrix is not invertible, an error message will appear.
